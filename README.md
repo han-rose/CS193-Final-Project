@@ -37,7 +37,9 @@ How to actually run the thing, with examples.
 
 ## Roadmap
 
-- [ ] The website itself
-- [ ] Background music
-- [ ] Player win message (Ex: player 1 wins, player 2 wins)
-- [ ] Games planned: Connect 4, Tic-Tac-Toe, Button-Mashing Game
+- [ ] Create a blank website
+- [ ] Start adding text making different spaces for each game
+- [ ] Create the first game & instructions
+- [ ] Make sure game 1 works
+- [ ] Repeat process with other games
+- [ ] Ensure that all instructions and inputs work as intended.
