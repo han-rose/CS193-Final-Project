@@ -1,4 +1,4 @@
-[cs193.drawio](https://github.com/user-attachments/files/34223117/cs193.drawio)# CS193 Final Project
+CS193 Final Project
 
 This project will be a website full of small games to play online with your friends in person together.
 
